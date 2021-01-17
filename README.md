@@ -1,0 +1,2 @@
+# isSiteUp
+site is up
